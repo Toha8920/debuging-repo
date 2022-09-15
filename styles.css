@@ -203,8 +203,6 @@ button {
 
   #histories {
     display: flex;
-
-    /* grid-template-columns: 1fr(3); */
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
