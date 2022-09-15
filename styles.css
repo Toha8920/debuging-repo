@@ -198,7 +198,7 @@ button {
   }
 
   .card {
-    flex-direction: row;
+    flex-direction: column;
   }
 
   #histories {
